@@ -1,0 +1,18 @@
+# 2db fájl csatolása github-hoz
+
+Elvárás html-ben:
+
+-Paragrafus
+
+-Címsor
+
+-1 kép
+
+-1 felsorolás
+
+-1 lista
+
+Css:
+
+Minden egyes elemet minimum 3 tulajdonságértékkel kell illetni, mind a 3 szelektort használni kell (" dive használata ")
+
